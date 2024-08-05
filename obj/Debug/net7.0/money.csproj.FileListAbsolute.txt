@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\money\bin\Debug\net7.0\money.exe
+C:\Users\ASUS\Desktop\money\bin\Debug\net7.0\money.deps.json
+C:\Users\ASUS\Desktop\money\bin\Debug\net7.0\money.runtimeconfig.json
+C:\Users\ASUS\Desktop\money\bin\Debug\net7.0\money.dll
+C:\Users\ASUS\Desktop\money\bin\Debug\net7.0\money.pdb
+C:\Users\ASUS\Desktop\money\obj\Debug\net7.0\money.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\money\obj\Debug\net7.0\money.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\money\obj\Debug\net7.0\money.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\money\obj\Debug\net7.0\money.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\money\obj\Debug\net7.0\money.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\money\obj\Debug\net7.0\money.dll
+C:\Users\ASUS\Desktop\money\obj\Debug\net7.0\refint\money.dll
+C:\Users\ASUS\Desktop\money\obj\Debug\net7.0\money.pdb
+C:\Users\ASUS\Desktop\money\obj\Debug\net7.0\money.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\money\obj\Debug\net7.0\ref\money.dll
